@@ -6,7 +6,7 @@ I also like to incorporate 3D printing technology to complete the entire project
 
 我是一位來自臺灣的自由開發者。👨‍💻
 
-在閒暇之餘時，我喜歡編譯具有創意的程式碼，將 Arduino、STM32 或 Raspberry Pi 與各種感測器結合來實現小型專案，再融入 3D 打印技術，完成整個專題。😋
+在閒暇之餘時，我喜歡編譯具有創意的程式碼，將 Arduino、STM32 或 Raspberry Pi 與各種感測器結合來實現小型作品，再融入 3D 打印技術，完成整個作品。😋
 
 ## 🛠My Development Toolbox
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
