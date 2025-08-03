@@ -1,4 +1,4 @@
-<img width="1280" height="460" alt="image" src="https://github.com/user-attachments/assets/0ee8193c-ad37-420e-bf5b-105aca3b4fc6" />
+<img width="1280" height="456" alt="image" src="https://github.com/user-attachments/assets/06ec635f-5652-4598-b64d-ac1ae0f49164" />
 
 # 👋Hello there
 I am a freelance developer from Taiwan.👨‍💻
