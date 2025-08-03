@@ -1,3 +1,5 @@
+<img width="1280" height="460" alt="image" src="https://github.com/user-attachments/assets/0ee8193c-ad37-420e-bf5b-105aca3b4fc6" />
+
 # 👋Hello there
 I am a freelance developer from Taiwan.👨‍💻
 
@@ -13,7 +15,7 @@ I also like to incorporate 3D printing technology to complete the entire project
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://www.lua.org/images/lua-logo.gif" alt="lua" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://appinventor.mit.edu/"> <img src="https://gallery.appinventor.mit.edu/image/1c9e0e65-4bef-4ff6-826b-9d14fa125539/download__1_-removebg-preview.png" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://appinventor.mit.edu/"> <img src="https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.tinkercad.com/" target="_blank" rel="noreferrer"> <img src="https://www.tinkercad.com/favicon.ico" alt="tinkercad" width="40" height="40"/> </a> </p>
 
 
