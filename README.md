@@ -19,8 +19,13 @@ I also like to incorporate 3D printing technology to complete the entire project
 <a href="https://www.tinkercad.com/" target="_blank" rel="noreferrer"> <img src="https://www.tinkercad.com/favicon.ico" alt="tinkercad" width="40" height="40"/> </a> </p>
 
 
+## 🚧 DIY-Project
 
-
+| 功能       | 狀態    | 備註         |
+| ---------- | ------- | ------------ |
+| 1   | 2 | ✅ 完成   |
+| 1   | 2 | 🚧 開發中   |
+| 1 | 2 | ❌ 未開始   |
 
 
 
@@ -29,7 +34,6 @@ I also like to incorporate 3D printing technology to complete the entire project
 
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=boomerchiao&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoomerChiao&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
 
