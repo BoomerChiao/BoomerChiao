@@ -21,7 +21,7 @@ I also like to incorporate 3D printing technology to complete the entire project
 
 ## 🚧 DIY-Project
 
-| ATmega328P | STM32 | MSP430 | RP2350 | Application | 備註 |
+| ATmega328P | STM32 | [MSP430](https://github.com/BoomerChiao/MSP430_energy_toolbox/tree/main) | RP2350 | Application | 備註 |
 | ---------- | ----- | ------ | ------ | ---- | ---- |
 | ❌[(2019-2021) TouchPlayer](https://github.com/BoomerChiao/ArduinoProMini-TouchPlayer) | ✅[(2025) business_card](https://github.com/BoomerChiao/STM32_business_card) | 🚧 | 🚧 | ✅[(2022) ArduinoDetectionvalve](https://github.com/BoomerChiao/ArduinoDetectionvalve) | ✅ Completed   |
 | ✅[(2022) AHTX0-BMPX80](https://github.com/BoomerChiao/AHTX0-BMPX80)   |   |     |     |  | 🚧 In Progress   |
