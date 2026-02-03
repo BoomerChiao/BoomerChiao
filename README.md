@@ -23,7 +23,7 @@ I also like to incorporate 3D printing technology to complete the entire project
 
 | ATmega328P | STM32 | [MSP430](https://github.com/BoomerChiao/MSP430_energy_toolbox/tree/main) | RP2350 | Application | 備註 |
 | ---------- | ----- | ------ | ------ | ---- | ---- |
-| ❌[(2019-2021) TouchPlayer](https://github.com/BoomerChiao/ArduinoProMini-TouchPlayer) | ✅[(2025) business_card](https://github.com/BoomerChiao/STM32_business_card) | 🚧 | 🚧 | ✅[(2022) ArduinoDetectionvalve](https://github.com/BoomerChiao/ArduinoDetectionvalve) | ✅ Completed   |
+| ❌[(2019-2021) TouchPlayer](https://github.com/BoomerChiao/ArduinoProMini-TouchPlayer) | ✅[(2025) business_card](https://github.com/BoomerChiao/STM32_business_card) | ✅[(2025-2026) MSP430_BeanCounter](https://github.com/BoomerChiao/MSP430_energy_toolbox/tree/main/Application/MSP430_BeanCounter) | 🚧 | ✅[(2022) ArduinoDetectionvalve](https://github.com/BoomerChiao/ArduinoDetectionvalve) | ✅ Completed   |
 | ✅[(2022) AHTX0-BMPX80](https://github.com/BoomerChiao/AHTX0-BMPX80)   |   |     |     |  | 🚧 In Progress   |
 | ✅[(2024) Birthday-Gift-DIY](https://github.com/BoomerChiao/ArduinoBirthday-Gift-DIY) |   |     |     |  | ❌ Discontinued |
 | ✅[(2024-2025) Air-Quality-Monitor](https://github.com/BoomerChiao/Arduino_Air-Quality-Monitor) |   |     |     |  |  |
